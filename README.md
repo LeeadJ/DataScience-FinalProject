@@ -27,6 +27,7 @@ Leead Jacobowitz
 - In this project, the goal was to classify different hand positions.
 - After cleaning the data and loading it, I ran models like Knn, Logistic Regression, Forest Regression, Naive Bayes, Bagging, Voting and XGBoost.
 - I split the testing data into training and testing sets in order to determine which was the best model for the classification. 
+![image](https://user-images.githubusercontent.com/77110578/180455999-bdb178dd-aa3d-4819-a743-dd9fa454763a.png)
 
 
 
