@@ -9,6 +9,7 @@ Leead Jacobowitz
 - Cross-Validiation Score: Knn (69%), Logistic Regression (87%).
 - Using the XGBoost model I improved the Accuracy Score to 90%.
 ![image](https://user-images.githubusercontent.com/77110578/180454851-66068472-1367-4c91-a7c5-4ddf77d14905.png)
+![image](https://user-images.githubusercontent.com/77110578/180455133-87a6d5f9-7bd1-4255-b029-5dea72fd4729.png)
 
 ## Part 2: Fashion-MNIST Dataset
 - In this project, the goal was to build a classifying model for the Fashion-MNIST dataset. 
