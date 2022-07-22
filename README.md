@@ -21,6 +21,7 @@ Leead Jacobowitz
 - In this project, the goal was to build a classifying model for the Cats-vs-Dogs dataset. 
 - Using PCA I was able to decrease the number of dimensions to 80, which allowed the model to simplify and be more efficient.
 - Used XGBoost and recieved a total Accuracy Score of 63%. (Which is considered good).
+![image](https://user-images.githubusercontent.com/77110578/180455763-d3b9df06-3999-46c5-9262-651dffd577a1.png)
 
 ## Part 4: Hand Position Dataset
 - In this project, the goal was to classify different hand positions.
